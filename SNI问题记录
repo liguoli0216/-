@@ -26,3 +26,5 @@
 #3 java访问此服务报错证书不可信，并且提示的证书并不是此服务配置的证书
 
 #为何java访问的时候提示的不可信证书不是我们配置的？万事不定先抓包(此时的我还不知道SNI)
+
+![Image](https://github.com/liguoli0216/Nginx/blob/master/SNI/httpclient-4.3.4.png)
